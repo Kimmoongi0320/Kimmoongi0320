@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?text=Kimmoongi0320&type=waving&color=0:A2DDFE,100:C6F2FF&fontColor=003366&height=200)
+
 
 ## Project
 
@@ -63,4 +65,4 @@
 
 
 ## My Github Stats
-![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimmoongi0320&show_icons=true&theme=dark)
+![Kimmoongi0320's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimmoongi0320&count_private=true&show_icons=true&theme=tokyonight)
