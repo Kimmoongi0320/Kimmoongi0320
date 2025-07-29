@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=Kimmoongi0320&type=waving&color=0:A2DDFE,100:C6F2FF&fontColor=003366&height=200)
+![header](https://capsule-render.vercel.app/api?text=Kimmoongi0320&type=waving&color=0:A2DDFE,100:C6F2FF&fontColor=003366&height=250&desc=Web+Developer&fontAlignY=35)
 
 
 ## Project
