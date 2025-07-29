@@ -12,5 +12,6 @@
 ##Stacks
 
 
-[[![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimmoongi0320)](https://github.com/Kimmoongi0320/github-readme-stats)
-](https://github-readme-stats.vercel.app/api?username=Kimmoongi0320)&hide=stars,contribs&count_private=true)
+
+[![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimmoongi0320)&hide=stars,contribs&count_private=true)](https://github.com/Kimmoongi0320/github-readme-stats)
+
